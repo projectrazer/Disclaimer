@@ -2,7 +2,7 @@
 <h2 style="text-align: center;"><b>DISCLAIMER</b></h2>
 <p>Last updated: 2022-03-10</p>
 <p><b>WEBSITE DISCLAIMER</b></p>
-<p>The information provided by <b>Razer, Inc.</b> (“Company”, “we”, “our”, “us”) on <b>www.officialrazer.xyz</b> (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.</p>
+<p>The information provided by <b>Razer, Inc.</b> on <b>www.officialrazer.xyz</b> (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.</p>
 <p>UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.</p>
 <p><b>EXTERNAL LINKS DISCLAIMER</b></p>
 <p>The Site may contain (or you may be sent through the Site) links to other websites or content belonging to or originating from third parties or links to websites and features. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by us.</p>
