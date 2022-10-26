@@ -18,4 +18,5 @@
 <p>All logos and trademarks of third parties referenced on www.officialrazer.xyz are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of Razer, Inc. by such owners.</p>
 <p><b>CONTACT US</b></p>
 <p>Should you have any feedback, comments, requests for technical support or other inquiries, please contact us by email: <b>officialrazer@protonmail.com</b>.</p>
-<p> ©2022 Razer, Inc. All rights reserved.</p>
+
+<h6 align="center">©️ Project Razer</h6>
